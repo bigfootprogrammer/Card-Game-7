@@ -1,5 +1,5 @@
 # Card-Game-7
-
+<code>
 1st Hand    Two Sets of 3               Six    cards played.
 2nd Hand    One Set of 3 and One Run    Seven  cards played.
 3rd Hand    Two Runs                    Eight  cards played.
@@ -16,3 +16,4 @@ When buying a dis-card, you must draw two cards from deck.
 Jokers can be taken and replaced in Runs only, not Sets.
 When laying down, Jokers can't exceed half the cards being laid down.
 When going out, all your cards must play, no dis-card.
+</code>
